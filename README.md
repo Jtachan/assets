@@ -10,15 +10,20 @@ https://raw.githubusercontent.com/Jtachan/assets/refs/heads/main/${PATH_TO_ASSET
 I decided to create this repository to avoid adding many images to one repository where I mostly want to keep code.
 That way, the load of that repo is smaller.
 
+---
+
 ## Q&A
 
-> Is this created for anyone to use?
+<details>
+<summary><b>Is this created for anyone to use?</b></summary>
 
 The repository is (and will remain) **public** and anyone can use it in their own projects.
 However, I will maintain the repo considering only the assets I might require.
 Anyone is welcome to fork or mirror the repo if they want to do their own modifications.
+</details>
 
-> [`devicon`](https://github.com/devicons/devicon) already provides icons. Why are you not using them?
+<details>
+<summary><b><code><a href="https://github.com/devicons/devicon">devicon</a></code> already provides icons. Why are you not using them?</b></summary>
 
 That is true, but I decided to create my own repo for the following reasons:
 
@@ -37,3 +42,4 @@ That is true, but I decided to create my own repo for the following reasons:
 
 While I could open tickets there for them to update the repository, they might take a long time to close and the resolution might not always be the one I was looking for.
 For those reasons, it is just easier to me to maintain this repo.
+</details>
