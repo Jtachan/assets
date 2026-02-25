@@ -12,13 +12,13 @@ That way, the load of that repo is smaller.
 
 ## Q&A
 
-**Is this created for anyone to use?**
+> Is this created for anyone to use?
 
-The repository is public and anyone can use it in their own projects.
+The repository is (and will remain) **public** and anyone can use it in their own projects.
 However, I will maintain the repo considering only the assets I might require.
 Anyone is welcome to fork or mirror the repo if they want to do their own modifications.
 
-**[`devicon`](https://github.com/devicons/devicon) already provides icons. Why are you not using them?**
+> [`devicon`](https://github.com/devicons/devicon) already provides icons. Why are you not using them?
 
 That is true, but I decided to create my own repo for the following reasons:
 
