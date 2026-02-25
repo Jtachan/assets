@@ -10,6 +10,12 @@ https://raw.githubusercontent.com/Jtachan/assets/refs/heads/main/${PATH_TO_ASSET
 I decided to create this repository to avoid adding many images to one repository where I mostly want to keep code.
 That way, the load of that repo is smaller.
 
+## Index
+
+The folders at this repo contain:
+
+- [**code-icons**](./code-icons/): Vector graphics icons for code-related tools.
+
 ## Q&A
 
 <details>
