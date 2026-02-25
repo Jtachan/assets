@@ -14,7 +14,7 @@ That way, the load of that repo is smaller.
 
 The folders at this repo contain:
 
-- [**code-icons**](./code-icons/): Vector graphics icons for code-related tools.
+- [**code-icons**](./code-icons/readme.md): Vector graphics icons for code-related tools.
 
 ## Q&A
 
