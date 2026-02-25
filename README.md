@@ -27,8 +27,8 @@ That is true, but I decided to create my own repo for the following reasons:
 <table>
     <tr><th>At Devicon</th><th>My asset</th></tr>
     <tr>
-      <td><img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg alt="Rust icon in black"></td>
-      <td><img src=./code-icons/rust.svg alt="Rust icon with rusty colors (brown and orange)"></td>
+      <td><img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rust/rust-original.svg alt="Rust icon in black" width=40></td>
+      <td><img src=./code-icons/rust.svg alt="Rust icon with rusty colors (brown and orange)" width=40></td>
 </table>
 
 2. [`devicon`](https://github.com/devicons/devicon) is missing some icons I use, like 'batch.svg' or 'bokeh.svg'.
