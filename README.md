@@ -13,12 +13,21 @@ That way, the load of that repo is smaller.
 There is also a script to get the Base64 code for any SVG file in this repo.
 For more information, run `python encode_icons.py -h`.
 
+> [!Warning]
+> All assets at this repo are under **no-AI CC0 license**.
+> Under no circumstance they can be used for AI training purposes.
+
+## Contains
+
+- **Icons**: SVG files in different folders. All these folders have the part 'icon' in their name.
+- **Shields**: Badges created with [shields.io](https://shields.io), most already prepared for them to be copy-pasted.
+
 ## Q&A
 
 <details>
 <summary><b>Is this created for anyone to use?</b></summary>
 
-The repository is (and will remain) **public** and anyone can use it in their own projects.
+The repository is (and will remain) <b>public</b> and anyone can use it in their own projects.
 However, I will maintain the repo considering only the assets I might require.
 Anyone is welcome to fork or mirror the repo if they want to do their own modifications.
 </details>
@@ -39,7 +48,7 @@ That is true, but I decided to create my own repo for the following reasons:
 </table>
 </div>
 
-2. [`devicon`](https://github.com/devicons/devicon) is missing some icons I use, like 'batch.svg' or 'bokeh.svg'.
+2. [`devicon`](https://github.com/devicons/devicon) is missing some icons I use, like ['batch.svg'](./code-icons/batch.svg) or ['bokeh.svg'](./code-icons/bokeh.svg).
 
 While I could open tickets there for them to update the repository, they might take a long time to close and the resolution might not always be the one I was looking for.
 For those reasons, it is just easier to me to maintain this repo.
